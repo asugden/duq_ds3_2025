@@ -1,3 +1,7 @@
+"""This is a script rather than a library. It should never be imported
+elsewhere, that's why it's in scripts."""
+
+
 def add_one(x: int | float) -> int | float:
     """Add a one to an input variable and return the output
 
