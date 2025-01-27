@@ -32,6 +32,35 @@ The final exam will be a mock job interview. It will be comprised of the followi
 - Description of previous work: 40%
 - Coding challenge: 20%
 
+## Academic Integrity
+
+It seems unnecessary to mention this, but students must submit their own work, not that of other students, associates, or AI Models. Failures in academic integrity will result in a 0 on the assignment and additional testing of the topic area during the final.
+
+### Generative AI
+
+As discussed in class, you can test ideas with Generative AI but you cannot complete your homework with it. Overuse of Gen AI will be apparent if you are unable to pass the coding challenges during the final exam.
+
+## Disability Services
+
+If you have any concerns related to disabilities or accomadations, please contact the Office of Disability Services, 309 Duquesne Union, at 412.396.6658 or disabilityservices@duq.edu and contact me in the first week so that we can work together to meet your accomadations.
+
+## Health and Wellness
+
+Your mental health and wellbeing matter. Our Center for Student Wellbeing provides health services, recreation opportunities, and counseling. From therapeutic services to support your overall wellbeing to therapy services that can help with a specific health, psychological, or spiritual issue, the Center for Student Wellbeing, along with Spiritan Campus Ministry, are here for you.
+
+You can learn more about any of our Center for Student Wellbeing Resources and Services at https://www.duq.edu/life-at-duquesne/health-recreation-wellness/index.php
+
+- Counseling Services
+  https://www.duq.edu/life-at-duquesne/health-recreation-and-counseling/counseling-services
+- Health Services
+  https://www.duq.edu/life-at-duquesne/health-recreation-and-counseling/health-services
+- Recreation Services
+  https://www.duq.edu/life-at-duquesne/health-recreation-and-counseling/recreation-services
+- Oasis Mental Health and Wellbeing App
+  The Oasis App is available on the App Store and the Google Play Store. You can also find it by searching for “Oasis Mental Health” in the App Store or Play Store.
+- Spiritan Campus Ministry
+  https://www.duq.edu/life-at-duquesne/spiritan-campus-ministry
+
 # Code necessities
 
 I highly recommend using a unix-based system for programming-- either dual-boot a windows machine with Ubuntu or use a Mac. The computer lab is fantastic and has computers that can boot into Ubuntu. If necessary, then the easiest way to use Python on a Windows machine is using a combination of Anaconda and Git Bash.
